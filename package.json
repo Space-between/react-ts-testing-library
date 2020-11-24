@@ -1,30 +1,23 @@
 {
-  "name": "bankda-k-frontend-mobile",
+  "name": "react-ts-testing-library",
   "version": "1.0.0",
-  "description": "뱅크다K 프론트엔드 (모바일)",
+  "description": "react-ts-testing-library",
   "main": "index.js",
   "dependencies": {
     "@types/react": "^16.9.56",
     "@types/react-dom": "^16.9.9",
     "@types/react-router-dom": "^5.1.6",
     "@types/styled-components": "^5.1.4",
-    "antd": "^4.8.2",
-    "markdown-it": "^12.0.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-is": "^17.0.1",
-    "react-markdown": "^5.0.2",
     "react-router-dom": "^5.2.0",
-    "remark-gfm": "^1.0.0",
-    "styled-components": "^5.2.1",
-    "styled-reset": "^4.3.1",
     "typescript": "^4.0.5"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@types/jest": "^26.0.15",
-    "@types/markdown-it": "^10.0.3",
     "@types/react-test-renderer": "^17.0.0",
     "jest": "^26.6.3",
     "parcel-bundler": "^1.12.4",
@@ -38,13 +31,8 @@
     "test:watch": "jest --watch"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bankda/bankda-k-frontend-mobile.git"
+    "type": "git"
   },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/bankda/bankda-k-frontend-mobile/issues"
-  },
-  "homepage": "https://github.com/bankda/bankda-k-frontend-mobile#readme"
+  "license": "ISC"
 }
